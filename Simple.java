@@ -3,6 +3,7 @@ public class Simple{
         System.out.println("Hi my name is Adarsh Jadhav");
         System.out.println("I am from Latur");
         System.out.println("I have completed my graduation from pune university");
+        System.out.println("Sir I am completeing task now");
     }
 }
     
